@@ -4,7 +4,7 @@ The purpose of this repository is to keep track of my progress during the [ES207
 
 ## Classes
 
-- [ ] Aula 0: Filosofia
+- [x] Aula 0: Filosofia
 - [ ] Aula 1: Integração no tooling JS
 - [ ] Aula 2: Promises te tapearam
 - [ ] Aula 3: Conceitos básicos da linguagem
