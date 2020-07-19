@@ -1,0 +1,22 @@
+{
+  "name": "minimal-reason-react",
+  "version": "0.1.0",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": ["reason-react", "reason-promise"],
+  "warnings": {
+    "error": "+101"
+  },
+  "refmt": 3,
+  "reason": {
+    "react-jsx": 3
+  },
+  "ppx-flags": ["bs-let/ppx"]
+}
