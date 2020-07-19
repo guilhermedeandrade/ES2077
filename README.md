@@ -5,8 +5,8 @@ The purpose of this repository is to keep track of my progress during the [ES207
 ## Classes
 
 - [x] Aula 0: Filosofia
-- [ ] Aula 1: Integração no tooling JS
-- [ ] Aula 2: Promises te tapearam
+- [x] Aula 1: Integração no tooling JS
+- [x] Aula 2: Promises te tapearam
 - [ ] Aula 3: Conceitos básicos da linguagem
 - [ ] Aula 4: Um outro tipo de TDD - Type Driven Development
 - [ ] Aula 5: Forms, async e hooks com ReasonReact
